@@ -9,10 +9,13 @@ This case is about a bank (Thera Bank) whose management wants to explore ways of
 
 ## Learning Outcomes:
 
-Exploratory Data Analysis
-Preparing the data to train a model
-Training and making predictions using a classification model
-Model evaluation
+1-Exploratory Data Analysis
+
+2-Preparing the data to train a model
+
+3-Training and making predictions using a classification model
+
+4-Model evaluation
 ## Objective:
 The classification goal is to predict the likelihood of a liability customer buying personal loans.
 ## References:
